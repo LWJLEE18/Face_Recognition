@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">academic_festival</string>
+    <string name="refresh">Refresh</string>
+    <string name="find">Find</string>
+    <string name="share_via">Share via</string>
+    <string name="copy_link">Copy Link</string>
+    <string name="open_with">Open with</string>
+    <string name="copied_to_clipboard">Copied to clipboard</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>  
+    <string name="channel_name">Lens Unlock</string>
+    <string name="channel_name2">Lens Unlock</string>
+    <string name="channel_description">Door status</string>
+</resources>

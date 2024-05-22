@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "academic-festival",
+  "private_key_id": "ad45967465fdc640dd5ce1790113c4f49b4febb4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCpEcNHeN5ccqUg\ncguX5UYLePsY0FTqfjPm+/1cUI+uL+9169u1Hke30RT8oB7erL/9HPmZoCeXsgWu\npq/kb1Nw1OwpiQNUb0GuYxmORalIv0dnA6uP6Dpg0IqRWXUCwO5Amup52VbRU2xA\nf7voAbW/Z9OElYEPi5UIHOHnlxdYDgZJixBGHO2Aec30kvRaM+rikwrN59OKGmpM\ntxPRnPryYmFoopSipSSo+u7RFBkfZGV6moLXwcA1p7zflq/D2Vb4cEuGCQHgFwVM\nT1xWZviPXJNXiK5d6iRRErr7Njx41w6vROkzHHhJ0QkK5PizGRGCi4LfeqTciP6I\n0qBGkRGVAgMBAAECggEAGp6D1wh2Rir8ybd7EM7V8O965WTDwend5SPOt86tWJkO\nhEv+2yzp0My4F7BkO94KGmGKAQCgyzcJwv5WmkpW4mB70GxUnGIp/rl2qBpatWv8\nY4FF7VH8gwrCjnD9xdG3kW9ytH2eODYAyMTzwmsmgPzpZiod2GM7MzxM6yg0UjYd\nirwmo5pSO+7wQMAk4icbeA0poqEU+jQXWDiCHGSCD3DepyqIiuqB2aX5OgYvSGta\nSDXfdc/1YfebJfeGMBRH1L7GpDQmlv5KUHjD9zNzk4BOcwACh/CmYknOiOZOS/B2\nuTy2fmgXVS1TBXk4tfCBRe52cKnjNmU5V6Wc4MKC8QKBgQDU9BT6hIUQnfAiGf+e\nBJPLOUFbWGawz8aRJpxle6HAU3/Dax9xUMvftKr9WqQuI1hMYnLv8Qon7OrHpNh1\nyh4goV3wpWRWbL09oriBx9/0XHX8gdEtw1f6RBUySLtMmYyDgsG83xsTBq2blQRg\nEkJy6yUulabpRbQxhMc8PJTRiQKBgQDLPsSWGnzchNOsoXDsNy8f1/IjYCZ0ApWa\n/hbziGqwLuU+ogV+9Lx7vjGtqFHKiwwxOGdLKLnF9fkOi8rc/Fym46EGz1sgTRv+\n8dIwHTxISl+suM1PNW3ljWnh/rZaA9Ex4N5uKHMhU4vShAzT2GUClsLffjrLuI/P\nr6FXM/24rQKBgCoLIpUvUsIsHHvvHBuLlc5auH+bXXLtIqwHrnsOxKmfEqt3W9bY\nd9fr6JJqsd12FvnFuiGLOlEVomjWL/JZfEc+9LgNP1kc0OP5W2osFxg8pQK8cpsR\nZS5BANpTp78A1dAlIbDzb3n7KI1+B0YcdMgRit6+pxyJKYFZUKig4VTZAoGAL2Fs\nlsmJ/iaA6iegmZCrzbKb4h9SF41arw048IEGzhfAnX9L5LLNFdPa5O7uUldj+j15\n5w2RcVLMQtXX7vht6QH70giY58jSE/bv1wOZwAiGkU9rnWGJQxBadLLac9Wb+RLB\nB9EqNcSyPdtG2kQCGD5pI4zbzA40iGgbJqcaKOkCgYAMHUSe7K0czgLvdEzrUwhe\nnDNUPak6mctO6WiIhiAU5WIv23CvKHqDmSkPh59wKDAVTS1nodU0Qi/UOsRQBDEU\n9pN9dyd1uU8d9LH3ndd+q0K2XjJEJ59ZyB5QXHzCRsMpvZi5KB91Xkg8RCvPxUwR\n61g2cG5FDsmDCej2AKMe5A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-1yfmi@academic-festival.iam.gserviceaccount.com",
+  "client_id": "100271892260527901096",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-1yfmi%40academic-festival.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

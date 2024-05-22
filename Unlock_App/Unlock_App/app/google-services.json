@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "100540850872",
+    "firebase_url": "https://academic-festival-default-rtdb.firebaseio.com",
+    "project_id": "academic-festival",
+    "storage_bucket": "academic-festival.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100540850872:android:a8cbde49451f56415b8a4d",
+        "android_client_info": {
+          "package_name": "com.example.academic_festival"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100540850872-stja0tni1min7or72ldb1nvmmvhfvmt2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.academic_festival",
+            "certificate_hash": "10abafcf6d9ea2af60129fa638c6a75a042a2512"
+          }
+        },
+        {
+          "client_id": "100540850872-am03oo8lntpo2cl9t85btjkf1783b3a1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9OZtYxXcyD03vFIbMRYjdpJ0WuXGeSP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100540850872-am03oo8lntpo2cl9t85btjkf1783b3a1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100540850872:android:1cd4bc7cf2212add5b8a4d",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100540850872-am03oo8lntpo2cl9t85btjkf1783b3a1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9OZtYxXcyD03vFIbMRYjdpJ0WuXGeSP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100540850872-am03oo8lntpo2cl9t85btjkf1783b3a1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

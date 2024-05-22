@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <Preference android:layout="@layout/smartdoor_setting"/>
+    <SwitchPreference
+        app:iconSpaceReserved="false"
+        android:defaultValue="true"
+        android:summaryOn="켜짐"
+        android:summaryOff="꺼짐"
+        android:title="현관 알림"
+        android:key="Unknown_notifi"/>
+    <SwitchPreference
+        app:iconSpaceReserved="false"
+        android:defaultValue="true"
+        android:title="문열림 알림"
+        android:key="doorstatus_notifi"/>
+</PreferenceScreen>
