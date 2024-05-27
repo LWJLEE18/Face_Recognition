@@ -26,8 +26,18 @@
 전체 구성도
 
 
-<img src="https://github.com/lwonj/Face_Recognition/assets/120168925/57d61612-8084-4232-8759-3283f5de13c1" alt="asd" width="800" height="500"/>
+<img src="https://github.com/lwonj/Face_Recognition/assets/120168925/57d61612-8084-4232-8759-3283f5de13c1" width="800" height="500"/>
 
 구현화면
+
+<img src="https://github.com/lwonj/Face_Recognition/assets/120168925/8e5e69ef-5688-4a60-831a-9a7ffb72469c" width="100" height="300"/>
+<img src="https://github.com/lwonj/Face_Recognition/assets/120168925/cb09030b-0bcb-45c8-baac-dcc0803799ba" width="100" height="300"/>
+<img src="https://github.com/lwonj/Face_Recognition/assets/120168925/c212050f-61c0-4253-8108-2afa9d45419b" width="100" height="300"/>
+<img src="https://github.com/lwonj/Face_Recognition/assets/120168925/86a2e92f-8dfe-4e5d-9e81-b8203a2b4f58" width="100" height="300"/>
+<img src="https://github.com/lwonj/Face_Recognition/assets/120168925/e122612d-ab6d-4239-97e8-50c91efb1aa9" width="100" height="300"/>
+<img src="https://github.com/lwonj/Face_Recognition/assets/120168925/eb904b48-7f5a-4e11-a247-d05ca4c167c0" width="100" height="300"/>
+<img src="https://github.com/lwonj/Face_Recognition/assets/120168925/f8d28cc1-4401-4759-97c7-47ef7b778a85" width="100" height="300"/>
+<img src="https://github.com/lwonj/Face_Recognition/assets/120168925/cac3a8f2-6dbf-4434-a9e7-4b32f5ee65fb" width="100" height="300"/>
+
 
 적용 알고리즘
