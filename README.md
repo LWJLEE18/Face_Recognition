@@ -44,6 +44,7 @@
 <img src="https://github.com/lwonj/Face_Recognition/assets/120168925/f8d28cc1-4401-4759-97c7-47ef7b778a85" width="200" height="400"/>
 <img src="https://github.com/lwonj/Face_Recognition/assets/120168925/cac3a8f2-6dbf-4434-a9e7-4b32f5ee65fb" width="200" height="400"/>
 
+
 결론
 - 다른 각도, 다른 밝기 등 다양한 환경에서의 사진들과 임계치, 설정값을 맞게 해준다면 많은 저장소를 차지하지 않아도 된다는 것
 - 이미지 학습의 개수를 늘리는 것 말고도 FAR와 FRR 사이의 임곗값을 적절히 설정하여 얼굴인식의 인식률을 높일 수 있었음
