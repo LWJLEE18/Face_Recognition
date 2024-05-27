@@ -4,7 +4,8 @@
 - Raspberry 얼굴인식 기능 개발(Python)
 - Application 부분적 back-end(Java) 기능 구현
 - Firebase 구축 및 연동
-
+- 알고리즘 연구
+  
 사용 장치 
 - Raspberry Pi4
 - Picamera Module V3
