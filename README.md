@@ -26,7 +26,7 @@
 전체 구성도
 
 
-<img src="https://github.com/lwonj/Face_Recognition/assets/120168925/57d61612-8084-4232-8759-3283f5de13c1" alt="asd" width="800" height="500"/>)
+<img src="https://github.com/lwonj/Face_Recognition/assets/120168925/57d61612-8084-4232-8759-3283f5de13c1" alt="asd" width="800" height="500"/>
 
 구현화면
 
